@@ -5,14 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on being an entrepreneur
+- 🌱 I’m currently learning react
+- 👯 I’m looking to collaborate on full stack development and machine learning projects
+- 💬 Ask me about full stack development and machine learning
+- 😄 Pronouns: He, his, him
+- ⚡ Fun fact: I hate to code but addicted to 'BUILD SUCCESSFUL'
 
 
 <h4 align="center">Visitor's count :eyes:</h4>
@@ -28,44 +26,57 @@ Here are some ideas to get you started:
 
 <br />
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-<!-- [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][pizzaseries] -->
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 
+**Languages and Tools:**
 
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <br />
+<!--   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <br /> -->
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+   <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
+</p>
 
+---
 
-
-
-
-
-## Profile
-Property                 | Data  
--------------------------|------
-Language / IDE           | [![C# Badge](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=C-Sharp&logoColor=white)](https://github.com/search?l=C%23&q=user%3Azmcx16&type=Repositories) [![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3Azmcx16&type=Repositories) [![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3Azmcx16&type=Repositories) [![C++ Badge](https://img.shields.io/badge/-Visual%20Studio-00599C?style=flat&logo=C%2B%2B&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![C Badge](https://img.shields.io/badge/-Visual%20Studio-A8B9CC?style=flat&logo=C&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![JAVA Badge](https://img.shields.io/badge/-Eclipse-007396?style=flat&logo=JAVA&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
-Tool / Framework         | [![Electron Badge](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=Electron&logoColor=white)](https://github.com/zmcx16/MangaPrettier) [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=Electron&logoColor=white)](https://github.com/zmcx16/AxisCult) [![ASP.NET Badge](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![PyQt Badge](https://img.shields.io/badge/-PyQt-41CD52?style=flat&logo=Qt&logoColor=white)](https://github.com/zmcx16/AxisTradeCult) [![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=Microsoft-Azure&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Elasticsearch Badge](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Logstash Badge](https://img.shields.io/badge/-Logstash-F2BD1A?style=flat&logo=Logstash&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Kibana Badge](https://img.shields.io/badge/-Kibana-E8478B?style=flat&logo=Kibana&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![photoshop Badge](https://img.shields.io/badge/-Photoshop-26C9FF?style=flat&logo=Adobe-Photoshop&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
-Domain Knownledge        | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Web Crawling Badge](https://img.shields.io/badge/-Web%20Crawling-036CB5?style=flat&logoColor=white)](https://project.zmcx16.moe/?page=mahomangadownloader) [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/zmcx16/AxisTradeCult)
-CI / CD                  | [![Azure Pipelines Badge](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat&logo=Azure-Pipelines&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![AppVeyor Badge](https://img.shields.io/badge/-AppVeyor-00B3E0?style=flat&logo=AppVeyor&logoColor=white)](https://github.com/zmcx16/MemoOffVocabulary) [![Travis-CI Badge](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat&logo=Travis-CI&logoColor=white)](https://github.com/zmcx16/MangaPrettier) [![Github Actions Badge](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white)](https://github.com/zmcx16/zmcx16)
-Side Projects - App <img width=200/> | [![MahoMangaDownloader Badge](https://img.shields.io/badge/-MahoMangaDownloader-lightskyblue?style=flat&logoColor=white)](https://project.zmcx16.moe/?page=mahomangadownloader) [![AxisTradeCult Badge](https://img.shields.io/badge/-AxisTradeCult-darkorange?style=flat&logoColor=white)](https://github.com/zmcx16/AxisTradeCult) [![ChaldeaStockObservatory Badge](https://img.shields.io/badge/-ChaldeaStockObservatory-lightsteelblue?style=flat&logoColor=white)](https://github.com/zmcx16/ChaldeaStockObservatory) [![MangaPrettier Badge](https://img.shields.io/badge/-MangaPrettier-orange?style=flat&logoColor=white)](https://github.com/zmcx16/MangaPrettier) [![PhotoMosaic-Artifact Badge](https://img.shields.io/badge/-PhotoMosaic%20Artifact-deepskyblue?style=flat&logoColor=white)](https://github.com/zmcx16/PhotoMosaic-Artifact) [![OpenAI-Gym-Hearts Badge](https://img.shields.io/badge/-OpenAI%20Gym%20Hearts-darkslateblue?style=flat&logoColor=white)](https://github.com/zmcx16/OpenAI-Gym-Hearts) [![find-house-assistant-chrome-extension Badge](https://img.shields.io/badge/-find%20house%20assistant%20chrome%20extension-yellowgreen?style=flat&logoColor=white)](https://github.com/zmcx16/find-house-assistant-chrome-extension) [![MemoOffVocabulary Badge](https://img.shields.io/badge/-MemoOffVocabulary-magenta?style=flat&logoColor=white)](https://github.com/zmcx16/MemoOffVocabulary)   
-Side Projects - Web      | [![Side Project Badge](https://img.shields.io/badge/-project.zmcx16.moe-00fa9a?style=flat&logoColor=white)](https://project.zmcx16.moe/) [![Axis Cult Badge](https://img.shields.io/badge/-Axis%20Cult-00eeff?style=flat&logoColor=white)](https://axiscult.zmcx16.moe/) [![Norn Minehunter Badge](https://img.shields.io/badge/-Norn%20Minehunter-gold?style=flat&logoColor=white)](https://norn-minehunter.zmcx16.moe/) [![TW Stock Lottery Secretary Badge](https://img.shields.io/badge/-TW%20Stock%20Lottery%20Secretary-3b5998?style=flat&logoColor=white)](https://www.facebook.com/%E8%82%A1%E7%A5%A8%E6%8A%BD%E7%B1%A4%E5%B0%8F%E7%A7%98%E6%9B%B8-115560563215006/) [![Protobuf Deserializer Badge](https://img.shields.io/badge/-Protobuf%20Deserializer-red?style=flat&logoColor=white)](https://protobuf-deserializer.zmcx16.moe/)
-Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx16-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zmcx16/) [![Gmail Badge](https://img.shields.io/badge/-zmcx16-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:zmcx16@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shunningyou/)
-
+<a href="https://github.com/zjayers/github-readme-stats">
+   <img width="60%" alt="Aditya's github stats" src="https://github-readme-stats.vercel.app/api?username=aadimangla&show_icons=true&hide_border=true" />
+</a>
 
 
 [website]: https://www.adityamangla.com/
