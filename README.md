@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on being an entrepreneur
-- 🌱 I’m currently learning firebase
+- 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on full stack development and machine learning projects
 - 💬 Ask me about full stack development and machine learning
 - 😄 Pronouns: He, his, him
