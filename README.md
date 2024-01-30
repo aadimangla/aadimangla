@@ -3,14 +3,15 @@
 
 <!-- **aadimangla/aadimangla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+Hey, I'm Aditya, a developer by psyche and soul!
 
-- 🔭 I’m currently working on being an entrepreneur
-- 🌱 I’m currently learning REACT
-- 👯 I’m looking to collaborate on full stack development and machine learning projects
-- 💬 Ask me about full stack development and machine learning
-- 😄 Pronouns: He, his, him
-- ⚡ Fun fact: I hate to code but addicted to 'BUILD SUCCESSFUL'
+Completed my graduation!!
+
+Now onto my next adventure.
+
+Working as Software Engineer at Wells Fargo, making new connections and memories and lots of learning.
+
+If you want to talk more about website development and AI or machine learning development, or random storytelling ping me up I'm always up for a cup of coffee and good talk.
 
 
 <h4 align="center">Visitor's count :eyes:</h4>
@@ -19,8 +20,6 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codersgyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codersgyan | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
 [<img align="left" alt="codersgyan | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="codersgyan | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 
